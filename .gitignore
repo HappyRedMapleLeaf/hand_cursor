@@ -1,0 +1,5 @@
+/data/**
+/unused/
+**.mp4
+**.keras
+data.txt
